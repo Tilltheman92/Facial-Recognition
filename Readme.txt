@@ -1,0 +1,2 @@
+For a small presentation on the Facebook Facial Recognition duiring my Ironhack Data Analytics Bootcamp I wrote a small Facial Recognition Code to present.
+Used: https://github.com/jg-fisher/faceRecognition/blob/master/face_rec.py as reference
